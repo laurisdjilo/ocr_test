@@ -1,0 +1,23 @@
+{
+  "$class": "org.eeyes.ressources.ComputePV",
+  "code": "Akwa:ABENA MICHEL",
+  "BV": "Lycée bilingue d'Akwa Nord",
+  "sectionName": "Akwa",
+  "image": "",
+  "nombreElecteursInscrits": 0,
+  "nombreSuffrageEmi":0,
+  "publishedDate": "2018-11-14T07:20:14.404Z",
+  "candidateVoices": [
+    {
+      "$class": "org.eeyes.ressources.Voices",
+      "candidate": "ABENA MICHEL",
+      "voice": 45
+    },
+    {
+      "$class": "org.eeyes.ressources.Voices",
+      "candidate": "MBARGA JEAN",
+      "voice": 62
+    }
+  ],
+  "scrutateur": "resource:org.eeyes.ressources.Author#ABENA MICHEL"
+}

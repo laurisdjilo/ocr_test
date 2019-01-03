@@ -1,0 +1,48 @@
+ 
+
+Section Section.1.1.
+
+ 
+
+Bureau de vote Section.1.1.1.
+
+ 
+
+Nombre d'inscrits |100
+
+ 
+
+ 
+
+Nombre de votants |80
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Candidat Nombre de voix
+A 46
+B 12
+C 11
+NULL 11
+
+ 
+
+ 
+
+ 
+
+ 
+
